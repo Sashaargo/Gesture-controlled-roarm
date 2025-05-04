@@ -1,1 +1,0 @@
-/home/argo/rogest_ws/src/gest_pub/setup.py
