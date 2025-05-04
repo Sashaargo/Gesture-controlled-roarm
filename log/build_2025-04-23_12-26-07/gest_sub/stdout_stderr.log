@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/gest_sub/gest_sub.egg-info
+writing ../../build/gest_sub/gest_sub.egg-info/PKG-INFO
+writing dependency_links to ../../build/gest_sub/gest_sub.egg-info/dependency_links.txt
+writing entry points to ../../build/gest_sub/gest_sub.egg-info/entry_points.txt
+writing requirements to ../../build/gest_sub/gest_sub.egg-info/requires.txt
+writing top-level names to ../../build/gest_sub/gest_sub.egg-info/top_level.txt
+writing manifest file '../../build/gest_sub/gest_sub.egg-info/SOURCES.txt'
+reading manifest file '../../build/gest_sub/gest_sub.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/gest_sub/gest_sub.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/argo/rogest_ws/build/gest_sub/build
+creating /home/argo/rogest_ws/build/gest_sub/build/lib
+creating /home/argo/rogest_ws/build/gest_sub/build/lib/gest_sub
+copying gest_sub/gest_sub_node.py -> /home/argo/rogest_ws/build/gest_sub/build/lib/gest_sub
+copying gest_sub/__init__.py -> /home/argo/rogest_ws/build/gest_sub/build/lib/gest_sub
+running install
+running install_lib
+creating /home/argo/rogest_ws/install/gest_sub/lib/python3.10/site-packages/gest_sub
+copying /home/argo/rogest_ws/build/gest_sub/build/lib/gest_sub/gest_sub_node.py -> /home/argo/rogest_ws/install/gest_sub/lib/python3.10/site-packages/gest_sub
+copying /home/argo/rogest_ws/build/gest_sub/build/lib/gest_sub/__init__.py -> /home/argo/rogest_ws/install/gest_sub/lib/python3.10/site-packages/gest_sub
+byte-compiling /home/argo/rogest_ws/install/gest_sub/lib/python3.10/site-packages/gest_sub/gest_sub_node.py to gest_sub_node.cpython-310.pyc
+byte-compiling /home/argo/rogest_ws/install/gest_sub/lib/python3.10/site-packages/gest_sub/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/argo/rogest_ws/install/gest_sub/share/ament_index
+creating /home/argo/rogest_ws/install/gest_sub/share/ament_index/resource_index
+creating /home/argo/rogest_ws/install/gest_sub/share/ament_index/resource_index/packages
+copying resource/gest_sub -> /home/argo/rogest_ws/install/gest_sub/share/ament_index/resource_index/packages
+copying package.xml -> /home/argo/rogest_ws/install/gest_sub/share/gest_sub
+running install_egg_info
+Copying ../../build/gest_sub/gest_sub.egg-info to /home/argo/rogest_ws/install/gest_sub/lib/python3.10/site-packages/gest_sub-0.0.0-py3.10.egg-info
+running install_scripts
+Installing gest_sub_node script to /home/argo/rogest_ws/install/gest_sub/lib/gest_sub
+writing list of installed files to '/home/argo/rogest_ws/build/gest_sub/install.log'

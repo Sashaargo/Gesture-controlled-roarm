@@ -1,0 +1,3 @@
+[console_scripts]
+gest_pub_node = gest_pub.gest_pub_node:main
+
